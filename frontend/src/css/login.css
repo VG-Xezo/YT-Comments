@@ -1,0 +1,14 @@
+.form-container {
+    border-radius: 5px;
+    box-shadow: 5px 10px #cfcfcf;
+}
+.or {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.text-roboto {
+    font-family: 'Roboto', sans-serif;
+}
+.flex {
+  display: flex;
+}

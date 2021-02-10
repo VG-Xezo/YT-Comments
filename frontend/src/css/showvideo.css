@@ -1,0 +1,17 @@
+.text-roboto {
+  font-family: 'Roboto', sans-serif;
+}
+.grid-container {
+  display: grid;
+  grid-auto-rows: auto;
+  grid-gap: 10px;
+}
+.embed-container {
+  width: 65%;
+}
+.flex {
+  display: flex;
+}
+.no-under:hover {
+    text-decoration: none;
+}

@@ -1,0 +1,28 @@
+.text-roboto {
+    font-family: 'Roboto', sans-serif;
+}
+.embed-container {
+    width: 60%;
+}
+.flex {
+    display: flex;
+    align-items: center;
+}
+.flex-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.avatar {
+    border-radius: 50%;
+}
+.no-under:hover {
+    text-decoration: none;
+}
+.text-container {
+    margin: auto;
+    width: 60%;
+}
+.cursor-pointer:hover {
+    cursor: pointer;
+}
