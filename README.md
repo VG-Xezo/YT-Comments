@@ -8,7 +8,7 @@ I created this web appilication for people to post comments on youtube that have
 
 To run on your own you must split the hosting between the backend and frontend. Then edit the config.js in each
 
-You can host the api anywhere but I would suggest hosting the frontend on heroku
+You can host the api anywhere but I would suggest hosting the backend on heroku
 
 ### Credits
 
